@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+/*it basically has a formula  the total size of array with size +1 by 2 when subracted by each and every element in the array we can get the miising value in that perticular array*/ 
 
 int getMissingNo(int a[], int n)
 {
